@@ -19,4 +19,9 @@ I will note again in the first part of the code, but the Quandl module used to b
 
 To begin, what is regression in terms of us using it with machine learning? The goal is to take continuous data, find the equation that best fits the data, and be able forecast out a specific value. With simple linear regression, you are just simply doing this by creating a best fit line:
 
-<span style="color: green"> http://machinelearningmastery.com/linear-regression-for-machine-learning/ </span>
+http://machinelearningmastery.com/linear-regression-for-machine-learning/ 
+
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+
+top-10 ml algorithms 
+https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa
