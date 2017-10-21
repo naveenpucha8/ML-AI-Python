@@ -35,4 +35,4 @@ When you contribute, your name with a link (if available) is added to our [contr
 
 # License
 
-We believe in freedom and improvement. [GNU General Public License v3.0]()
+We believe in freedom and improvement. [GNU General Public License v3.0](https://github.com/AlmaIndustries/ML-python/blob/master/LICENSE)
